@@ -1,2 +1,3 @@
 message from user1
 This is user1 about to edit
+This is user2 about to edit
