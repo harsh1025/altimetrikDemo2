@@ -1,0 +1,6 @@
+message from user1
+<<<<<<< HEAD
+This is user1 about to edit
+=======
+This is user2 about to edit
+>>>>>>> 9283acb (modify bu user2)
